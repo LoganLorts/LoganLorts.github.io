@@ -33,7 +33,7 @@
     text-align: center;
     background-color: red;
     display: inline-block;
-    width:33%;
+    width:45%;
     border-top: 0;
     border-left: 1px solid black;
     border-right: 0px solid black;
@@ -57,7 +57,7 @@
 }
 body{
   padding: 15px 15px 15px 15px;
-  font-size: x-large;
+  font-size: large;
 }
 .section{
   border: 15px solid white;
@@ -72,6 +72,8 @@ body{
 }
 .page-title{
   text-align: center;
+  margin-top: 4vh;
+  margin-bottom: 4vh;
 }
 .Chicken{
   background-color: pink;
